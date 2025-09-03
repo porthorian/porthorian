@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porthorian&label=Profile%20views&color=0e75b6&style=flat" alt="porthorian" /> </p>
 
-- 🔭 I’m currently working at [Coreweave](https://github.com/coreweave)
+- 🔭 I’m currently working at [Penny Labs](https://github.com/Penny-Labs)
 
 - 🌱 I’m currently learning **whatever I need to get the job done**
 
